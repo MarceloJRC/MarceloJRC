@@ -8,8 +8,6 @@ Database Lover 💽❤️‍🔥
 
 [![Outlook Badge](https://img.shields.io/badge/-marcelo.carvalho2@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:marcelo.carvalho2@outlook.com)](mailto:marcelo.carvalho@outlook.com)
 
-![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloJRC&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloJRC&layout=compact)](https://github.com/MarceloJRC/github-readme-stats)
 <div/>
   
 ## Técnologias:
