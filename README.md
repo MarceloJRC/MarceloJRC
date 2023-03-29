@@ -10,6 +10,8 @@ Database Lover 💽❤️‍🔥
 
 <div/>
   
+![Marcelo Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloJRC&show_icons=true&bg_color=00000001)
+  
 ## Técnologias:
 <div style:"display: inline_block" align="center"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
