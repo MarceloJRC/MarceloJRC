@@ -1,4 +1,5 @@
 ### Muito prazer, eu sou o [Marcelo Carvalho](https://github.com/MarceloJRC) 👨‍💻
+Database Lover 💽❤️‍🔥
 
 <img align="center" src="images/r_536209_rcy6p.gif" />
 
@@ -22,6 +23,3 @@
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
 </div><br/>
-
-
-Database Lover 💽❤️‍🔥
