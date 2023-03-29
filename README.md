@@ -1,5 +1,7 @@
+<div align="center">
+
 ### Muito prazer, eu sou o [Marcelo Carvalho](https://github.com/MarceloJRC) 👨‍💻
-Database Lover 💽❤️‍🔥
+#### Database Lover 💽❤️‍🔥
 <img align="center" src="images/r_536209_rcy6p.gif" />
 
 [![LinkedIn Badge](https://img.shields.io/badge/-MarceloCarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/marcelo-carvalho-290760202/])]([https://www.linkedin.com/in/marcelo-carvalho-290760202/])
@@ -8,7 +10,8 @@ Database Lover 💽❤️‍🔥
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloJRC&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloJRC&layout=compact)](https://github.com/MarceloJRC/github-readme-stats)
-
+<div/>
+  
 ## Técnologias:
 <div style:"display: inline_block" align="center"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
