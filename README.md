@@ -1,4 +1,4 @@
-### Hi there, , I'm [Marcelo Carvalho](https://github.com/MarceloJRC)
+### Hi there, I'm [Marcelo Carvalho](https://github.com/MarceloJRC)
 
 ## About me
 
