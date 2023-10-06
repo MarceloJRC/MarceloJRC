@@ -11,7 +11,7 @@ Database Lover 💽❤️‍🔥
 <div/>
   
 ![Marcelo Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloJRC&show_icons=true&bg_color=00000001)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)
   
 ## Tecnologias:
 <div style:"display: inline_block" align="center"><br/>
