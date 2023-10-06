@@ -11,8 +11,9 @@ Database Lover 💽❤️‍🔥
 <div/>
   
 ![Marcelo Carvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloJRC&show_icons=true&bg_color=00000001)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
-## Técnologias:
+## Tecnologias:
 <div style:"display: inline_block" align="center"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
